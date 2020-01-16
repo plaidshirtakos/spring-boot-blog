@@ -2,6 +2,8 @@
 
 ## About
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 This is a demo project for practicing **Spring Boot + Thymeleaf**. 
 The idea was to build some basic blogging platform.
 
