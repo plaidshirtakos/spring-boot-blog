@@ -1,0 +1,8 @@
+{
+  "name": "Okta Spring Boot - Angular demo",
+  "description": "Sample app with Okta Developer toolset",
+  "image": "heroku/gradle",
+  "env": {
+        "BUILDPACK_URL": "heroku/gradle"
+    }
+}
